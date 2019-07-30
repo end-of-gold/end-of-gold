@@ -1,0 +1,2 @@
+# end-of-gold
+blog
